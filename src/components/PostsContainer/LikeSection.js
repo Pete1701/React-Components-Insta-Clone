@@ -4,7 +4,7 @@
 import React from "react";
 
 const LikeSection = ({ addLikes, likes }) => {
-  //console.log(props);
+  console.log(likes);
   return (
     <div>
     <div
